@@ -1,25 +1,14 @@
 # myModule.py
-# you can import this
+# we can import this or any other Python file we wrote
 
-# import myModule
-# in another program (note without .py on the import statement)
-
-# a variable in the module
+# myModule.dozen -> 12
 dozen = 12
 
-# that is how the math module made the .pi variable
-
-
+# myModule.greeting()
 def greeting():
-    print("Hello there!")
-
-# myModule.greeting() will call that function
-# from another program, after import myModule
-
+    print("Hello world!")
 
 # function to square a number
-
-def square(num):
-    return num * num
-
-# call this with myModule.square(n)
+# myModule.square(...)
+def square(number):
+    return number * number
