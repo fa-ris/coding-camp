@@ -1,0 +1,20 @@
+Moth Orchid
+0.9
+Small
+$9.23
+
+Anthurium
+5.3
+Small
+$17.99
+
+Snake Plant
+6.6
+Small
+$37.99
+
+Euphorbia Cactus
+10
+Small
+$31.99
+
