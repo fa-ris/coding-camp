@@ -1,2 +1,2 @@
-# RFS-coding
-Dated code for RFS coding camp (updated every Thursday).
+# Programming Resources
+Dated code, in-class files, and more from Ramallah Coding Camp, held during Summer 2023. Extra resources uploaded periodically.
